@@ -1,0 +1,64 @@
+body{
+    background: black;
+   
+    font-family: 'Roboto', sans-serif
+}
+
+div.post{
+    background: white;
+    margin-top: 10px;
+}
+
+
+.post-header {
+    display: flex;
+    justify-content: space-between;
+  margin-bottom: 10px
+}
+
+div.contain{
+    width: 600px;
+   
+    padding: 10%;
+    
+}
+
+.html5-img{ 
+  display:flex;
+  
+}
+.title-name{margin-left: 10px;
+margin-top:5px}
+.html5-img h4{
+  margin:0px
+}
+.fa-html5{margin-top: 20px;
+margin-left:10px}
+
+.bottom-icons{
+    padding: 10px;
+}
+
+.bookmark-img{
+    float: right;
+    padding: 10px; 
+    
+        
+}
+
+
+
+
+img{
+    width: 100%;
+}
+
+.fa-comment{margin-left:10px;
+margin-right:10px}
+
+
+
+.fa-ellipsis-vertical{
+    margin-top: 20px;
+    margin-right: 10px;
+}
